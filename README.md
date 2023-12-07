@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rushikesh sapkal
 - 👀 I’m interested in software devlopment
-- 🌱 I’m currently pursuing post graduation diploma in advance computing (CDAC)
+- 🌱 Completed post graduation diploma in advance computing (CDAC)
 - 📫 Email: sapkalrushikesh96@gmail.com 
 
 <!---
