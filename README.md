@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Sapkal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshs96&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshs96" /> </p>
 
-- 🌱 I’m currently learning **.net core**
+- 🌱 I’m have completed post graduate diploma in advance computing, cdac**
 
 - 💬 Ask me about **react, java, backend and frontend developement**
 
