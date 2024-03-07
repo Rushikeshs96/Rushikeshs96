@@ -1,6 +1,6 @@
 <p align="center">
   <i><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I'M Rushikesh Sapkal; I am a 🎓Full-stack%20developer; 🎓Cdac-Certified; I love❤️ to do code👩‍💻 ;🤓 Curious%20To%20Learn%20New%20Things✨!&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=00FF00.&vCenter=true&size=22&pause=1000"></a></i>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I'M Rushikesh Sapkal; I am a 🎓Full-stack%20developer; 🎓Cdac-Certified; I love❤️ to do code👩‍💻 ; I AM SEARCHING FOR SOFTWARE DEVELOPER ROLE;🤓 Curious%20To%20Learn%20New%20Things✨!&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=00FF00.&vCenter=true&size=22&pause=1000"></a></i>
 </p>
 
 
